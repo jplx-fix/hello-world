@@ -1,5 +1,5 @@
 # hello-world
 My first repository
-I am an engineer interested in Gentoo Linux
-Does carriage return work like this?
+I am interested in Gentoo Linux
+but I am new to github.
 
